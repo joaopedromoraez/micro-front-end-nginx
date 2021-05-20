@@ -3,7 +3,7 @@ Modelo de micro front-end usando Nginx como servidor de proxy reverso.
 
 Clonar o repositorio:
 ````bash
-git clone https://github.com/JoaoPedroMoraes/micro-front-end-nginx.git
+git clone https://github.com/joaopedromoraez/micro-front-end-nginx.git
 ````
 Acessar a pasta: 
 ````bash
